@@ -23,3 +23,6 @@ Ensure proper file permissions on critical configuration file are maintained.
 Automate configuration checks using Puppet to prevent manual errors from leading to service disruptions.
 Enhance monitoring to include checks on file permissions for key web application files and notify the engineers.
 
+
+![Make people want to read your postmortem](mnt/chromeos/MyFiles/image.jpg)
+
